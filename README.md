@@ -1,1 +1,2 @@
 # NIAI-AIML-Tasks
+A collection of advanced AI/ML projects, assignments, and experiments completed during the NIAI training program at NETSOL, with a focus on practical learning, real-world applications, and solutions that are pertinent to the industry.
